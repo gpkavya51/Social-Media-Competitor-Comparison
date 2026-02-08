@@ -1,11 +1,11 @@
-📊 Social Media Competitor Comparison Dashboard
+#📊 Social Media Competitor Comparison Dashboard
 🧭 Project Overview
 
 The Social Media Competitor Comparison Dashboard is a Business Intelligence solution built using Power BI to analyze and compare social media performance across multiple companies and platforms.
 
 The dashboard helps marketing teams, analysts, and businesses evaluate competitor strategies using engagement metrics, follower trends, content performance, and reach analysis.
 
-🎯 Business Objectives
+#🎯 Business Objectives
 
 Compare social media performance across competitors
 
